@@ -1,4 +1,4 @@
-# Patch Bahasa Indonesia (Rev 1.01)
+# Patch Bahasa Indonesia (Rev 1.02)
 ## [Rune Factory: Guardians of Azuma (steam)](https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/)
 
 ## Cara Install
